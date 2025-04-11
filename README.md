@@ -2,7 +2,7 @@
 
 Este dashboard tem como objetivo apresentar uma análise comparativa do **faturamento dos restaurantes** entre os anos de **2017** e **2018**, possibilitando insights sobre desempenho, crescimento e sazonalidade.
 
-![Dashboard Preview](imagens/dashboard_restaurantes.png)
+![Dashboard Preview](imgbk.png)
 
 ---
 
